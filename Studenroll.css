@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    /* margin: 10px;
+    padding: 10px; */
+    /* border-bottom: solid black;
+    width: 30%;
+    padding-left: 10px; */
+   
+}
+.header{
+    top: 0%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+   
+    /* background-color: brown; */
+
+}
+.top{
+    margin-left: 38%;
+    
+}
+.leftside{
+    background-color: hwb(183 80% 5% / 0.949);
+    border-radius: 2%;
+  top: 20%; 
+   height: 70%;
+   position: fixed;
+    left: 5%;
+    padding: 10px;
+   margin-left: 20px;
+}
+form{
+    text-align: justify;
+    font-size: 25px;
+   padding-top: 50px;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+input{
+    font-size: 25px;
+    margin-left: 60px;
+    display: table-column-group;
+
+}
+.inp{
+    padding-bottom: 10px;
+}
+button{
+    padding: 4px 4px;
+    font-size: large;
+    background-color: red;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+.main-partition{
+    background-color: hwb(183 80% 5% / 0.949);
+    border-radius: 2%;
+  top: 20%; 
+   height: 70%;
+   width: 40%;
+   position: fixed;
+    right: 5%;
+    padding: 30px;
+   margin-left: 20px;
+}
+.tt{
+    align-items: center;
+    border: 1px solid black;
+}
+.tdh1 {
+    width :400px;
+    background-color: rgb(98, 120, 145);
+    border: 1px solid black;
+}
+.tdh2 {
+    
+    width :200px;
+    background-color:rgb(98, 120, 145);
+    border: 1px solid black;
+}
+.tdh3{
+    width :450px;
+    background-color:rgb(98, 120, 145);
+    font-size: 20px;
+    height: 150px;
+    border: 1px solid black;
+}
+.td2{
+    width: 200px;
+    background-color: rgb(98, 120, 145);
+    border: 1px solid black;
+}
+.piic{
+    padding-left: 30px;
+    width:150px;
+    height: 150px;
+    font-size: 20px;
+}
